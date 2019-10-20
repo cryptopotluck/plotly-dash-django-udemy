@@ -1,4 +1,4 @@
-![alt text](https://i.udemycdn.com/course/480x270/2597712_9552_2.jpg)
+![Intro Banner](https://i.udemycdn.com/course/480x270/2597712_9552_2.jpg)
 
 # Django-Plotly-Dash
 
@@ -31,6 +31,9 @@ Learn More on Django, Plotly & Dash on my Full Course:
 
 - ``python manage.py runserver``
 
+## Finished Picture
+
+![Finished Project](https://i.imgur.com/EabKIjy.png)
 
 # Useful Links
 
